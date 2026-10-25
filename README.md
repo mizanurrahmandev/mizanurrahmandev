@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://github.com/mizanurrahmandev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizanurrahmandev&repo=REPLACE_WITH_PROJECT_1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizanurrahmandev&repo=ProLink-App1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
   </a>
   <a href="https://github.com/mizanurrahmandev">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizanurrahmandev&repo=REPLACE_WITH_PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
@@ -95,7 +95,7 @@
   <a href="https://github.com/mizanurrahmandev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/mizanurrahman-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
   <a href="https://www.instagram.com/mizanurrahman.dev/">
