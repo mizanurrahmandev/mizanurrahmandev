@@ -1,37 +1,123 @@
 <h1 align="center">Hi 👋, I'm Mizanur Rahman</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Flutter
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: mizanshaheb644@gmail.com
-- 😄 My website: https://mizanurrahman-dev.lovable.app/
-- ⚡ Fun fact: I'm comming to teen
-  
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/mizan77mr">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+<h3 align="center">Flutter Developer | Mobile App Developer | Lifelong Learner</h3>
+
+<p align="center">
+  Building beautiful, responsive, and user-friendly mobile applications with Flutter and Dart.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mizanurrahmandev">
+    <img src="https://komarev.com/ghpvc/?username=mizanurrahmandev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/mizanurrahmandev?tab=followers">
+    <img src="https://img.shields.io/github/followers/mizanurrahmandev?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 📱 Passionate about building mobile applications with **Flutter & Dart**.
+- 🌱 Currently improving my skills in **OOP, asynchronous programming, and software architecture**.
+- 🔥 Exploring **Firebase, REST APIs, and scalable app development**.
+- 🏗️ Interested in **MVVM, Clean Architecture, and maintainable code**.
+- 💡 I enjoy turning ideas into practical software solutions.
+- 🎯 My goal is to become a skilled software developer and build impactful applications.
+- 📍 Based in Naogaon, Bangladesh.
+- 📫 Reach me at **[Email](mailto:mizanshaheb644@gmail.com)**.
+- 🌐 Visit my **[Portfolio Website](https://mizanurrahman-dev.lovable.app/)**.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart&perline=5" alt="Flutter and Dart" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase&perline=5" alt="Firebase" />
+</p>
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio&perline=5" alt="Development Tools" />
+</p>
+
+### Concepts & Practices
+
+- Object-Oriented Programming (OOP)
+- State Management with GetX
+- REST API Integration
+- Firebase Authentication & Cloud Firestore
+- Responsive UI Development
+- MVVM & Clean Architecture
+- Git & GitHub
+- Debugging and Problem Solving
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/mizanurrahmandev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizanurrahmandev&repo=REPLACE_WITH_PROJECT_1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
+  </a>
+  <a href="https://github.com/mizanurrahmandev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizanurrahmandev&repo=REPLACE_WITH_PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
+  </a>
+</p>
+
+> Replace the sample repository names above with your actual public project repository names.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mizanurrahmandev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mizanur Rahman's GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizanurrahmandev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mizanurrahmandev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/mizanurrahmandev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.youtube.com/@mrtricks6864">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-   <a href="https://www.instagram.com/mdmizanur220/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://www.instagram.com/mdmizanur220/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-   <a href="https://www.facebook.com/mizanur.rahman.442211">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://www.facebook.com/mizanur.rahman.442211">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-   <a href="https://x.com/mizan77mr">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/mizanurrahmandev">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-</div>
+  <a href="mailto:mizanshaheb644@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-### Languages and Tools:Add commentMore actions
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,&perline=5)](https://skillicons.dev)
+---
 
-![Mizanur Rahman GitHub stats](https://github-readme-stats.vercel.app/api?username=mizan77mr&show_icons=true&theme=dark)
+<p align="center">
+  <i>"Great software is built one thoughtful step at a time."</i>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizan77mr&theme=dark)
-
-
-<br>
+<p align="center">
+  Thanks for visiting my profile! ⭐ Feel free to explore my repositories.
+</p>
