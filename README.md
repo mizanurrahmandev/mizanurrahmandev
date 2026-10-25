@@ -68,7 +68,10 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizanurrahmandev&repo=ProLink-App&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
   </a>
   <a href="https://github.com/mizanurrahmandev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizanurrahmandev&repo=REPLACE_WITH_PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizanurrahmandev&repo=E-commerce&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
+  </a>
+  <a href="https://github.com/mizanurrahmandev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizanurrahmandev&repo=Assignment_and_Live_Exam/tree/task_manager_with_getx&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
   </a>
 </p>
 
