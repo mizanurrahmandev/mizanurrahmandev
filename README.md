@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://github.com/mizanurrahmandev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizanurrahmandev&repo=ProLink-App1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizanurrahmandev&repo=ProLink-App&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
   </a>
   <a href="https://github.com/mizanurrahmandev">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizanurrahmandev&repo=REPLACE_WITH_PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
