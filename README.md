@@ -95,13 +95,13 @@
   <a href="https://github.com/mizanurrahmandev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/mdmizanur220/">
+  <a href="https://www.instagram.com/mizanurrahman.dev/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.facebook.com/mizanur.rahman.442211">
+  <a href="https://www.facebook.com/mizanurrahman.dev">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://x.com/mizanurrahmandev">
+  <a href="https://x.com/xmizanurdev">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:mizanshaheb644@gmail.com">
