@@ -25,7 +25,7 @@
 - 🏗️ Interested in **MVVM, Clean Architecture, and maintainable code**.
 - 💡 I enjoy turning ideas into practical software solutions.
 - 🎯 My goal is to become a skilled software developer and build impactful applications.
-- 📍 Based in Naogaon, Bangladesh.
+- 📍 Based in Dhaka, Bangladesh.
 - 📫 Reach me at **[Email](mailto:mizanshaheb644@gmail.com)**.
 - 🌐 Visit my **[Portfolio Website](https://mizanurrahman-dev.lovable.app/)**.
 
